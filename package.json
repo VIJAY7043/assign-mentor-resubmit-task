@@ -2,7 +2,7 @@
   "name": "node-and-db-task",
   "version": "1.0.0",
   "description": "",
-  "main": "db.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js",

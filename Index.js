@@ -2,7 +2,7 @@
 import express from "express";
 import mentorsRouter from "./routers/mentorsRouter.js";
 import studentsRouter from "./routers/studentsRouter.js";
-import assignmentsRouter from "./routers/assignmentsRouter.js";
+import assignmentsRouter from "./Routers/assignmentsRouter.js";
 import { dbconnection } from "./db.js";
 
 const app = express();
